@@ -1,0 +1,6 @@
+@media screen and (class="container-sm"){
+    .div .style{
+        border-top-left-radius: 0%;
+        border-top-right-radius: 0%;
+    }    
+}
